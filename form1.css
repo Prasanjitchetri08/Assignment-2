@@ -1,0 +1,57 @@
+form
+{
+    border: rgb(211, 211, 226);
+text-align: left;
+background-color:lightcyan;
+
+}
+#registration-page {
+    height:100%;
+    background:#78a7ba; 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    overflow:scroll;
+}
+.signup-form  {
+    flex:1;
+    max-width:600px;
+    border-radius: 10px;
+    background-color: #EFF0F1;
+    border: 1px solid #999;
+    margin-top: auto;
+    margin-bottom:  auto;
+  }
+  .form-header {
+    padding:15px 0;
+    border-bottom:1px solid #cccccc;
+}
+
+.form-header h1 {
+    font-size: 28px;
+    text-align:center;
+    color:#666;
+}
+
+*{
+    background-color:lightcyan; 
+}
+h1
+{
+    text-align: center;
+border: 5px groove  rgb(100, 100, 145);
+padding: 10px;
+background-color:bisque;
+}
+#age{
+    box-sizing: 10px;
+}
+label{
+    font-size:15px;
+    background-color:beige;
+    
+}
+legend{
+    background-color: aquamarine;
+}
+
